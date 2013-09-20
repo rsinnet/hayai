@@ -1,4 +1,4 @@
-#include "hayai.hpp"
+#include "hayai/hayai.hpp"
 
 int main()
 {

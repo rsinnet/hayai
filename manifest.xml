@@ -1,0 +1,20 @@
+<package>
+    <description brief="hayai unittest framework">
+        nasa_hayai
+    </description>
+    <author>R. W. Sinnet (ryan@rwsinnet.com)</author>
+    <!-- Package written by Nick Bruun. -->
+    <license>As-is</license>
+    <url>https://github.com/nickbruun/hayai/</url>
+    <!-- My fork: https://github.com/rsinnet/hayai -->
+
+  <export>
+    <export>
+      <cpp cflags="-I${prefix}/include"/>
+      <!-- Might want to add an export for the static library if we need
+	   to use hayai's main function. -->
+    </export>
+
+  </export>
+
+</package>
