@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <description brief="hayai unittest framework">
-    nasa_hayai
+    hayai
   </description>
   <author>R. W. Sinnet (ryan@rwsinnet.com)</author>
   <!-- Package written by Nick Bruun. -->
